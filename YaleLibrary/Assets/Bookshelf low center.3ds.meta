@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: b649ebd7a500d41c2b87f444460499b4
+timeCreated: 1428169334
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back and C
+    100002: 'Baseboard '
+    100004: //RootNode
+    100006: Bottom fac
+    100008: Cube and C
+    100010: Cube and L
+    100012: Cylinder a
+    100014: Cylinder a 1
+    100016: Cylinder a 2
+    100018: LongTriple
+    100020: Shelf
+    100022: Shelf1
+    100024: Shelf2
+    100026: Side and C
+    100028: Side and C 1
+    100030: Spline Obj
+    100032: Top face
+    100034: Top face a
+    100036: Top face a 1
+    400000: Back and C
+    400002: 'Baseboard '
+    400004: //RootNode
+    400006: Bottom fac
+    400008: Cube and C
+    400010: Cube and L
+    400012: Cylinder a
+    400014: Cylinder a 1
+    400016: Cylinder a 2
+    400018: LongTriple
+    400020: Shelf
+    400022: Shelf1
+    400024: Shelf2
+    400026: Side and C
+    400028: Side and C 1
+    400030: Spline Obj
+    400032: Top face
+    400034: Top face a
+    400036: Top face a 1
+    2300000: Back and C
+    2300002: 'Baseboard '
+    2300004: Bottom fac
+    2300006: Cube and C
+    2300008: Cube and L
+    2300010: Cylinder a
+    2300012: Cylinder a 1
+    2300014: Cylinder a 2
+    2300016: LongTriple
+    2300018: Shelf
+    2300020: Shelf1
+    2300022: Shelf2
+    2300024: Side and C
+    2300026: Side and C 1
+    2300028: Spline Obj
+    2300030: Top face
+    2300032: Top face a
+    2300034: Top face a 1
+    3300000: Back and C
+    3300002: 'Baseboard '
+    3300004: Bottom fac
+    3300006: Cube and C
+    3300008: Cube and L
+    3300010: Cylinder a
+    3300012: Cylinder a 1
+    3300014: Cylinder a 2
+    3300016: LongTriple
+    3300018: Shelf
+    3300020: Shelf1
+    3300022: Shelf2
+    3300024: Side and C
+    3300026: Side and C 1
+    3300028: Spline Obj
+    3300030: Top face
+    3300032: Top face a
+    3300034: Top face a 1
+    4300000: Cube and L
+    4300002: LongTriple
+    4300004: Side and C
+    4300006: Shelf
+    4300008: Shelf1
+    4300010: Spline Obj
+    4300012: Side and C
+    4300014: Shelf2
+    4300016: Back and C
+    4300018: Bottom fac
+    4300020: 'Baseboard '
+    4300022: Top face a
+    4300024: Top face a
+    4300026: Top face
+    4300028: Cylinder a
+    4300030: Cylinder a
+    4300032: Cylinder a
+    4300034: Cube and C
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .200000003
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 1097c44488b584e838b3d979e42a9498
+timeCreated: 1428630947
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back
+    100002: 'Baseboard '
+    100004: //RootNode
+    100006: Bottom fac
+    100008: Crown moul
+    100010: Cylinder a
+    100012: Cylinder a 1
+    100014: Cylinder a 2
+    100016: LongTriple
+    100018: LongTriple 1
+    100020: Shelf
+    100022: Shelf1
+    100024: Shelf2
+    100026: Shelf3
+    100028: Shelf4
+    100030: Shelf5
+    100032: Side
+    100034: Side1
+    100036: Spline Obj
+    100038: Spline Obj 1
+    100040: Spline Obj 2
+    100042: Spline Obj 3
+    100044: Top face
+    100046: Top face a
+    100048: Top face a 1
+    400000: Back
+    400002: 'Baseboard '
+    400004: //RootNode
+    400006: Bottom fac
+    400008: Crown moul
+    400010: Cylinder a
+    400012: Cylinder a 1
+    400014: Cylinder a 2
+    400016: LongTriple
+    400018: LongTriple 1
+    400020: Shelf
+    400022: Shelf1
+    400024: Shelf2
+    400026: Shelf3
+    400028: Shelf4
+    400030: Shelf5
+    400032: Side
+    400034: Side1
+    400036: Spline Obj
+    400038: Spline Obj 1
+    400040: Spline Obj 2
+    400042: Spline Obj 3
+    400044: Top face
+    400046: Top face a
+    400048: Top face a 1
+    2300000: Back
+    2300002: 'Baseboard '
+    2300004: Bottom fac
+    2300006: Crown moul
+    2300008: Cylinder a
+    2300010: Cylinder a 1
+    2300012: Cylinder a 2
+    2300014: LongTriple
+    2300016: LongTriple 1
+    2300018: Shelf
+    2300020: Shelf1
+    2300022: Shelf2
+    2300024: Shelf3
+    2300026: Shelf4
+    2300028: Shelf5
+    2300030: Side
+    2300032: Side1
+    2300034: Spline Obj
+    2300036: Spline Obj 1
+    2300038: Spline Obj 2
+    2300040: Spline Obj 3
+    2300042: Top face
+    2300044: Top face a
+    2300046: Top face a 1
+    3300000: Back
+    3300002: 'Baseboard '
+    3300004: Bottom fac
+    3300006: Crown moul
+    3300008: Cylinder a
+    3300010: Cylinder a 1
+    3300012: Cylinder a 2
+    3300014: LongTriple
+    3300016: LongTriple 1
+    3300018: Shelf
+    3300020: Shelf1
+    3300022: Shelf2
+    3300024: Shelf3
+    3300026: Shelf4
+    3300028: Shelf5
+    3300030: Side
+    3300032: Side1
+    3300034: Spline Obj
+    3300036: Spline Obj 1
+    3300038: Spline Obj 2
+    3300040: Spline Obj 3
+    3300042: Top face
+    3300044: Top face a
+    3300046: Top face a 1
+    4300000: Back
+    4300002: Shelf
+    4300004: Spline Obj
+    4300006: Shelf1
+    4300008: Spline Obj
+    4300010: Shelf2
+    4300012: Spline Obj
+    4300014: Shelf3
+    4300016: Spline Obj
+    4300018: Shelf4
+    4300020: Shelf5
+    4300022: Side
+    4300024: LongTriple
+    4300026: Side1
+    4300028: LongTriple
+    4300030: Bottom fac
+    4300032: 'Baseboard '
+    4300034: Cylinder a
+    4300036: Cylinder a
+    4300038: Cylinder a
+    4300040: Crown moul
+    4300042: Top face
+    4300044: Top face a
+    4300046: Top face a
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
